@@ -1,0 +1,16 @@
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\bin\Debug\net8.0-windows\Sudoku Solver.exe
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\bin\Debug\net8.0-windows\Sudoku Solver.deps.json
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\bin\Debug\net8.0-windows\Sudoku Solver.runtimeconfig.json
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\bin\Debug\net8.0-windows\Sudoku Solver.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\bin\Debug\net8.0-windows\Sudoku Solver.pdb
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku_Solver.Form1.resources
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.csproj.GenerateResource.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.AssemblyInfoInputs.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.AssemblyInfo.cs
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\refint\Sudoku Solver.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.pdb
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\Sudoku Solver.genruntimeconfig.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\Sudoku Solver\Sudoku Solver\obj\Debug\net8.0-windows\ref\Sudoku Solver.dll
